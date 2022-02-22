@@ -14,3 +14,13 @@ Adalah sebuah sistem yang merekam perubahan-perubahan dari sebuah berkas atau se
 ### Git
 
 Merupakan salah satu Version Control System yang populer digunakan para developer untuk mengembangkan software secara bersama-sama
+
+## Task
+### Membuat Repository
+pada task ini kita diharuskan membuat repository yang berguna sebagai penyimpanan file proyek
+
+### Branch
+pada task ini kita membuat suatu branch yang berguna mengembangkan fitur baru tanpa mengganggu branch utama 
+
+### Conflict
+Pada task ini kita belajar bagaimana cara mengatasi conflict pada branch. Conflict terjadi ketika kita mengerjakan dua branch pada baris yang sama  
