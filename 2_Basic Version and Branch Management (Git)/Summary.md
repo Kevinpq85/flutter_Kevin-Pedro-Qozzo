@@ -21,10 +21,19 @@ Merupakan salah satu Version Control System yang populer digunakan para develope
 
 pada task ini kita diharuskan membuat repository yang berguna sebagai penyimpanan file proyek
 
+output:
+![repository](Screenshot/repository.jpeg)
+
 ### Branch
 
 pada task ini kita membuat suatu branch yang berguna mengembangkan fitur baru tanpa mengganggu branch utama
 
+output:
+![branch](Screenshot/Branch.jpeg)
+
 ### Conflict
 
 Pada task ini kita belajar bagaimana cara mengatasi conflict pada branch. Conflict terjadi ketika kita mengerjakan dua branch pada baris yang sama
+
+output:
+![conflict](Screenshot/conflict.jpeg)
