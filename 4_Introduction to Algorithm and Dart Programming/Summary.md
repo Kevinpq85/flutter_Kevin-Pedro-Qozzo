@@ -25,14 +25,14 @@ Logical: Menggabungkan beberapa kondisi
 
 ### Mengimplementasikan rumus luas lingkaranan
 
-[task1.go](./praktikum/../task1.go)
+[task1.go](./Praktikum/task1.go)
 
 output:
-![task1](../Screenshots/task1.jpeg)
+![task1](./Screenshots/task1.jpeg)
 
 ### Membuat variabel berupa string
 
-[task2.go](./praktikum/../task2.go)
+[task2.go](./Praktikum/task2.go)
 
 output:
-![task2](../Screenshots/task2.jpeg)
+![task2](./Screenshots/task2.jpeg)
