@@ -10,6 +10,7 @@ Dalam materi ini, mempelajari:
 4. Future
 5. List
 6. Map
+7. Branching
 
 ### Anonymous Function
 
@@ -34,6 +35,10 @@ berguna untuk meyimpan data secara berbaris dan tiap datanya memiliki index
 ### Map
 
 berguna untuk menyimpan data secara key-value
+
+### Pengambilan keputusan (Branching)
+
+adalah operasi yang digunakan untuk menyelesaikan masalah-masalah yang berhubungan dengan kondisi benar atau salah dari suatu pernyataan. Bentuk pernyataan tersebut berupa perbandingan antara dua buah nilai dengan menggunakan operator pembanding.
 
 ## Task
 
