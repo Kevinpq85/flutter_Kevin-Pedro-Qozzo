@@ -6,10 +6,10 @@ Dalam materi ini, mempelajari:
 
 1. Pengambilan Keputusan
 2. Perulangan
-3. Beak dan Continue
+3. Break dan Continue
 4. Fungsi
 
-### Pengambilan keputusan
+### Pengambilan keputusan (Branching)
 
 adalah operasi yang digunakan untuk menyelesaikan masalah-masalah yang berhubungan dengan kondisi benar atau salah dari suatu pernyataan. Bentuk pernyataan tersebut berupa perbandingan antara dua buah nilai dengan menggunakan operator pembanding.
 
