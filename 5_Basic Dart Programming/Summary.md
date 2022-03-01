@@ -1,25 +1,39 @@
-# 4 Introduction to Algorithm and Dart Programming
+# 5 Basic Dart Programming
 
 ## Resume
 
 Dalam materi ini, mempelajari:
 
-1. Dart
+1. Anonymous Function
+2. Arrow Function
+3. Async-Await
+4. Future
+5. List
+6. Map
 
-### Dart
+### Anonymous Function
 
-Adalah merupakan bahasa pemrograman yang dikembangkan oleh google untuk kebutuhan dalam membuat aplikasi android atau mobile, front-end, web, IoT, back-end (CLI), dan Game. Adapun tipe data dan operator dari dart antara lain :
-Tipe Data :
-Int: bilangan bulat
-double: bilangan pecahan
-bool: Menghasilkan nilai true/false
-string: teks
+fungsi anonymous merupakan fungsi yang dibuat tanpa menggunakan nama. Tujuan dari penggunaan fungsi ini adalah untuk langsung bisa mengeksekusi fungsi tersebut tanpa harus memanggil lagi nama fungsi tersebut
 
-Operator:
-Arithmetic: Untuk perhitungan matematis
-Assigment: Memberi nilai pada variable
-Comparison: Membandingkan kesetaraan nilai
-Logical: Menggabungkan beberapa kondisi
+### Arrow Function
+
+dapat kita gunakan untuk membuat sebuah fungsi secara lebih sederhana dan ringkas. Jika fungsi yang kita buat hanya memiliki satu baris expression, maka arrow function akan menganggapnya sebagai return statement.
+
+### Async-Await
+
+merupakan sebuah syntax khusus yang digunakan untuk menangani Promise agar penulisan code lebih efisien dan rapih.
+
+### Future
+
+adalah data yang dapat ditunggu, membawa data return dari fungsi async
+
+### List
+
+berguna untuk meyimpan data secara berbaris dan tiap datanya memiliki index
+
+### Map
+
+berguna untuk menyimpan data secara key-value
 
 ## Task
 
