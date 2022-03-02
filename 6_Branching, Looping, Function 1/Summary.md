@@ -32,13 +32,11 @@ adalah kumpulan kode yang dapat digunakan ulang
 [task1.go](./Praktikum/task1.go)
 
 output:
-![task1](./Screenshots/task1.png)
+![task1](./Screenshots/task_1.jpeg)
 
 ### Menampilkan nilai faktorial
 
 [task2.go](./Praktikum/task2.go)
 
 output:
-![task2](./Screenshots/faktorial10.png)
-![task2](./Screenshots/faktorial20.png)
-![task2](./Screenshots/faktorial30.png)
+![task2](./Screenshots/task_2.jpeg)

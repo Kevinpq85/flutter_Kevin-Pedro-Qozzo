@@ -1,15 +1,17 @@
+// import 'dart:io';
+
 // void main() {
-// 	var nilai = 70;
+// 	stdout.write("Input Nilai : ");
+// 	double? nilai = double.parse(stdin.readLineSync()!);
+// 	// var nilai = 70;
 // 	var grade;
   
-// 	if(nilai >= 70) {
+// 	if(nilai > 70) {
 // 	  grade = "A";
-// 	}else if(nilai >= 40) {
+// 	}else if(nilai > 40) {
 // 	  grade = "B";
-// 	}else if(nilai >= 0) {
-// 	  grade = "C";
 // 	}else {
-// 	  grade = "D";
+// 	  grade = "C";
 // 	}
 // 	print("Grade: $grade");
 //   }
