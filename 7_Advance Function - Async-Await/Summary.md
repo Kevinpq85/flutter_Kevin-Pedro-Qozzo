@@ -36,11 +36,11 @@ Map berguna untuk meniympan data secara key-value. key berguna selayaknya index 
 [task1.go](./Praktikum/task_1.dart)
 
 output:
-![task1](./Screenshots/task1.jpeg)
+![task1](./Screenshots/Task1.jpeg)
 
 ### Membuat sebuah list
 
 [task2.go](./Praktikum/task_2.dart)
 
 output:
-![task2](./Screenshots/task2.jpeg)
+![task2](./Screenshots/Task2.jpeg)
