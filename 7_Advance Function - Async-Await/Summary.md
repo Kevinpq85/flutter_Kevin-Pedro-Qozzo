@@ -33,14 +33,14 @@ Map berguna untuk meniympan data secara key-value. key berguna selayaknya index 
 
 ### Membuat Fungsi
 
-[task1.go](./Praktikum/task1.go)
+[task1.go](./Praktikum/task_1.dart)
 
 output:
-![task1](./Screenshots/task_1.jpeg)
+![task1](./Screenshots/task1.jpeg)
 
 ### Membuat sebuah list
 
-[task2.go](./Praktikum/task_2.go)
+[task2.go](./Praktikum/task_2.dart)
 
 output:
-![task2](./Screenshots/task_2.jpeg)
+![task2](./Screenshots/task2.jpeg)
