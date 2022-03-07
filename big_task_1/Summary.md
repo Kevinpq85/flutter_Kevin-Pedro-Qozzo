@@ -5,7 +5,7 @@
 Dalam materi ini, mempelajari bagaimana cara menyelesaikan masalah berupa:
 
 1. Ganjil atau genap
-2. -
+2. Azimuth/Back Azimuth
 3. Jam Pasir
 4. Angka diagonal
 
