@@ -1,17 +1,19 @@
-// import 'dart:io';
+import 'dart:io';
 
-// int angka(int a) {
-//   int a;
-//   a = a < b;
-//   return a;
-// }
+azimuth(int angka) {
+  if(angka >= 180) {
+    angka = angka - 180;
+    return angka;
+  } else if (angka <= 180) {
+    angka = angka + 180;
+    return angka;
+  } else if (angka <= 0 || angka >= 360) {
+    return 0;
+  }
+}
 
-// void main() {
-//   stdout.write("Silahkan masukkan angka : ");
-//   int? angka = int.parse(stdin.readLineSync()!);
-
-//   if(angka > 180) {
-//     print(angka);
-//   }
-
-// }
+void main() {
+  stdout.write("silahkan masukkan angka : ");
+  int angka = int.parse(stdin.readLineSync()!);
+  print(azimuth(angka));
+}

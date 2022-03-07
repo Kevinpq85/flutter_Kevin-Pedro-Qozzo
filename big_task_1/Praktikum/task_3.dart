@@ -11,7 +11,7 @@ void jamPasir() {
     for (c = a; c <= angka - 1; c++) {
       stdout.write('*' + ' ');
     }
-    print('');
+    print(' ');
   }
   for (a = angka; a >= 0; a--) {
     for (b = 0; b < a; b++) {
@@ -20,7 +20,7 @@ void jamPasir() {
     for (c = a; c <= angka - 1; c++) {
       stdout.write('*' + ' ');
     }
-    print('');
+    print(' ');
   }
   //
 }
