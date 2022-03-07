@@ -24,7 +24,16 @@ output:
 
 ### Azimuth atau back azimuth
 
---
+1. Menerima sebuah angka
+2. jika masukkan lebih dari 180 maka return masukkan -180
+3. jika kurang dari 180 maka return masukkan +180
+4. jika return kurang dari atau sama dengan 0 maka return 0
+5. jika return lebih dari atau sama dengan 360 maka return 0
+
+[task2.go](./Praktikum/task_2.dart)
+
+output:
+![task2](./Screenshots/Azimuth.jpeg)
 
 ### Jam pasir
 
