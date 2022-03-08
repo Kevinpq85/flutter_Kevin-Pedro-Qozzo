@@ -1,18 +1,11 @@
-import 'dart:io';
-
-fungsi(int a) {
-  
-  if (a.isOdd) {
-    return true;
-  } else if (a.isEven) {
-    return false;
-  }
+class Hewan {
+  String nama = "Kucing";
+  int berat = 20; 
 }
+
 void main() {
-  stdout.write("Silahkan masukkan angka : ");
-  int a = int.parse(stdin.readLineSync()!);
-  bool b = fungsi(a);
-  print(b);
-}
+  var h1 = Hewan();
 
-  
+  print(h1.nama);
+  print("Berat : ${h1.berat}");
+}
