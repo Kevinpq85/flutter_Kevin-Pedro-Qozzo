@@ -1,0 +1,4 @@
+class Hewan {
+  int? berat;
+}
+

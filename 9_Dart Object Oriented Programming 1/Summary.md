@@ -1,46 +1,37 @@
-# 7 Advance Function - Aync-Await
+# 9 Dart Object Oriented Programming
 
 ## Resume
 
 Dalam materi ini, mempelajari:
 
-1. Function
-2. Aync-Await
-3. Tipe data Future
-4. Collection
+1. OOP/Object Oriented Programming
+2. Class
+3. Property
+4. Method
 
-### Function
+### Object Oriented Programming
 
-adalah sub modul atau sub program yang dibuat untuk menyelesaikan hal tertentu. adapun function lanjutan (advance function) yaitu "Anonymous Function dan Arrow Funtion"
-Anonymous function merupakan fungsi yang dibuat tanpa menggunakan nama. Anonymous function juga bisa dimasukkan dalam sebuah variabel dan bisa di eksekusi denga memanggil variabel tersebut.
-Arrow function dapat kita gunakan untuk membuat sebuah fungsi secara lebih sederhana dan ringkas. Jika fungsi yang kita buat hanya memiliki satu baris expression, maka arrow function akan menganggapnya sebagai return statement.
+merupakan suatu metode pemrograman yang berorientasi kepada objek
 
-### Async-Await
+### Class
 
-dapat menjalankan beberapa proses tanpa perlu menunggu. proses ditulis dalam bentuk fungsi
+merupakan struktur dari dasar oop, Class terdiri dari dua tipe dari anggota dimana disebut dengan field (attribut/properti) dan method.
 
-### Tipe data future
+### Property
 
-adalah data yang dapat ditunggu, dan membawa data return dari fungsi async
+adalah Asset yang dimiliki oleh Class, yakni sebuah variable yang dapat anda setting sendiri nilainya. Property ini berisi data, dan proses pembuatannya cukup mudah sama seperti pembuatan variable pada umumnya.
 
-### Collection
+### Method
 
-kumpulan data pada suatu tempat terdiri dari list dan map
-List menyimpan data secara berbaris dan tiap data memiliki index
-Map berguna untuk meniympan data secara key-value. key berguna selayaknya index pada list
+adalah function yang berada di dalam suatu class.
 
 ## Task
 
-### Membuat Fungsi
+### Membuat komponen OOP
 
-[task1.go](./Praktikum/task_1.dart)
-
-output:
-![task1](./Screenshots/Task1.jpeg)
-
-### Membuat sebuah list
-
-[task2.go](./Praktikum/task_2.dart)
+[task.go](./Praktikum/hewan.dart)
+[task.go](./Praktikum/mobil.dart)
+[task.go](./Praktikum/total_muatan.dart)
 
 output:
-![task2](./Screenshots/Task2.jpeg)
+![task](./Screenshots/task%20section%209.png)
