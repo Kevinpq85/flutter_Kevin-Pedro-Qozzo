@@ -29,8 +29,8 @@ adalah function yang berada di dalam suatu class.
 
 ### Membuat komponen OOP
 
-[task.go](./Praktikum/hewan.dart)
-[task.go](./Praktikum/mobil.dart)
+[class_hewan.go](./Praktikum/hewan.dart)
+[class_mobil.go](./Praktikum/mobil.dart)
 [task.go](./Praktikum/total_muatan.dart)
 
 output:
