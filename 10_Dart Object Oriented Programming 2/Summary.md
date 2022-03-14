@@ -53,6 +53,5 @@ output:
 
 [task2.go](./Praktikum/task_2.dart)
 
-mecari kpk dan fbp dari nilai x= 16 dan y 40 adalah:
 output:
 ![task2](./Screenshots/task_2.jpeg)
