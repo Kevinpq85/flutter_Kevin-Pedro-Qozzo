@@ -3,8 +3,8 @@ abstract class Matematika {
 }
 
 class KelipatanPersekutuanTerkecil implements Matematika {
-    int x = 6;
-    int y = 10; 
+    int x = 16;
+    int y = 40; 
 
   @override
   int hasil() {
@@ -22,18 +22,26 @@ class KelipatanPersekutuanTerkecil implements Matematika {
 }
 
 class FaktorPersekutuanTerbesar implements Matematika {
-  int x = 5;
-  int y = 10;
+  int x = 16;
+  int y = 40;
 
   @override
   int hasil() {
-      if (y == 0)
-        return x;
-        return hasil();
+    int r = 0;
+    while(y!=0){
+        r = x % y;
+        x = y;
+        y = r;
+    }
+
+    return x;
   }
 }
 
 void main(){
-print(KelipatanPersekutuanTerkecil().hasil());
-print(FaktorPersekutuanTerbesar().hasil());
+KelipatanPersekutuanTerkecil kpk1 = KelipatanPersekutuanTerkecil();
+print(kpk1.hasil());
+
+FaktorPersekutuanTerbesar fpb1 = FaktorPersekutuanTerbesar();
+print(fpb1.hasil());
 }
