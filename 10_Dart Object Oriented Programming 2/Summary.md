@@ -55,3 +55,33 @@ output:
 
 output:
 ![task2](./Screenshots/task_2.jpeg)
+
+## Latihan soal
+
+### Soal 1
+
+[latihan1.go](./Latihan_soal/latihan_1.dart)
+
+output:
+![latihan1](./Screenshots/latihan_1.jpeg)
+
+### Soal 2
+
+[latihan2.go](./Latihan_soal/latihan_2.dart)
+
+output:
+![latihan2](./Screenshots/latihan_2.jpeg)
+
+### Soal 3
+
+[latihan3.go](./Latihan_soal/latihan_3.dart)
+
+output:
+![latihan3](./Screenshots/latihan_3.jpeg)
+
+### Soal 4
+
+[latihan4.go](./Latihan_soal/latihan_4.dart)
+
+output:
+![latihan4](./Screenshots/latihan_4.jpeg)
