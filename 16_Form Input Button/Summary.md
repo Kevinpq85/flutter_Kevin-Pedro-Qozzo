@@ -28,3 +28,10 @@ memiliki fungsi untuk melakukan perintah tertentu, contohnya yaitu button login 
 
 output:
 ![task1](./Screenshots/Android%20Emulator%20-%20Pixel_XL_API_32_5554%203_28_2022%201_54_58%20PM.png)
+
+### Membuat halaman baru dengan judul create new contact
+
+[task2.go](./Praktikum/lib/pages/create_new_contacts.dart)
+
+output:
+![task2](./Screenshots/Android%20Emulator%20-%20Pixel_XL_API_32_5554%203_28_2022%2011_03_32%20PM.png)
