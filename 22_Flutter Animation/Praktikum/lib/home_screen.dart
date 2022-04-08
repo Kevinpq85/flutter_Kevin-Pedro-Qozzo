@@ -9,26 +9,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  late Image img;
-  Image imgDown = Image.asset(
-    "assets/emyu.jpg",
-    width: 100,
-    height: 100,
-    fit: BoxFit.cover,
-  );
-  Image imgUp = Image.asset(
-    "assets/emyu.jpg",
-    width: 250,
-    height: 250,
-    fit: BoxFit.cover,
-  );
-  @override
-  void initState() {
-    super.initState();
-    img = imgUp;
-  }
-
-  // bool isBig = false;
+  bool isBig = false;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -40,17 +21,19 @@ class _HomeScreenState extends State<HomeScreen> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           GestureDetector(
-            child: img,
-            onTapUp: (tap) {
+            onTap: () {
               setState(() {
-                img = imgDown;
+                isBig = !isBig;
               });
             },
-            onTapDown: (tap) {
-              setState(() {
-                img = imgUp;
-              });
-            },
+            child: AnimatedContainer(
+                duration: const Duration(milliseconds: 300),
+                child: Image.asset(
+                  "assets/emyu.jpg",
+                  fit: BoxFit.cover,
+                  width: isBig ? 100 : 500,
+                  height: isBig ? 100 : 500,
+                )),
           ),
           ElevatedButton(
             onPressed: () {
