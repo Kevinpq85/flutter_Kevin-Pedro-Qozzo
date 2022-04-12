@@ -39,5 +39,5 @@ output:
 
 [task2.go](./Praktikum/lib/task_2/)
 
-output: saat
+output: saat di refresh tampilan akan menjadi tetap
 ![task2](./Screenshots/Android%20Emulator%20-%20Pixel_3_XL_API_32_5554%204_12_2022%204_17_09%20PM.png)
