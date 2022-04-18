@@ -52,14 +52,14 @@ JSON merupakan singkatan dari JavaScript Object Notation. JSON adalah cara penul
 
 ### melalukan POST menggunakan dio
 
-[task1.go](./Praktikum/bin/s_24.dart)
+[task1.go](./Praktikum/lib/main.dart)
 
 output:
-![task1](./Screenshots/task1.png)
+![task1](./Screenshots/Android%20Emulator%20-%20Pixel_3_XL_API_32_5554%204_18_2022%204_00_18%20PM.png)
 
 ### merubah JSON kedalam bentuk object dari suatu class
 
-[task2.go](./Praktikum/bin/s_24.dart)
+[task2.go](./Praktikum/lib/model/api/contact_api.dart)
 
 output:
-![task2](./Screenshots/task2.png)
+![task2](./Screenshots/task2.jpeg)
