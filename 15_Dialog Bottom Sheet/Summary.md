@@ -27,4 +27,6 @@ kegunaan nya seperti dialog tetapi muncul dari bawah layar aplikasi, menggunakan
 [task1.go](./Praktikum/lib/main.dart)
 
 output:
-![task1](./Screenshots/Android%20Emulator%20-%20Pixel_XL_API_32_5554%203_31_2022%204_44_43%20PM.png)
+![task1](./Screenshots/Android%20Emulator%20-%20Pixel_3_XL_API_32_5554%204_20_2022%201_59_48%20PM.png)
+saat diklik akan menghasilkan output seperti ini:
+![task1](./Screenshots/Android%20Emulator%20-%20Pixel_3_XL_API_32_5554%204_20_2022%201_59_48%20PM.png)

@@ -1,7 +1,16 @@
-# flutter_gellary
+# rs_17
 
-![Untitled](https://user-images.githubusercontent.com/76746914/148725806-45193182-7158-4c4c-a811-5c8c66227217.png)
+A new Flutter project.
 
-![1Untitled](https://user-images.githubusercontent.com/76746914/148725797-de633c59-ef79-4c1d-8705-9734e377d734.png)
+## Getting Started
 
-![Unt445itled](https://user-images.githubusercontent.com/76746914/148726057-a5c558a5-0633-4ee8-a28c-85f314ea4b9f.png)
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
