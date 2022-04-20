@@ -41,3 +41,19 @@ Cara kerja mocking:
 - suatu objek dibuat bentuk tiruannya
 - Bentuk tiruan tersebut memiliki input dan output yang sama dengan yang asli
 - Bentuk tiruan menghilangkan ketergantungan pada sistem eksternal
+
+## Task
+
+### Membuat halaman dengan MVVM
+
+[task1.go](./Praktikum/lib/model/api/menu_api.dart)
+
+output:
+![task1](./Screenshots/Android%20Emulator%20-%20Pixel_3_XL_API_32_5554%204_20_2022%203_43_27%20PM.png)
+
+### Melakukan unit test dengan menerapkan mocking
+
+[task2.go](./Praktikum/test/model/api/menu_api_test.dart)
+
+output:
+![task2](./Screenshots/task_2.jpeg)
