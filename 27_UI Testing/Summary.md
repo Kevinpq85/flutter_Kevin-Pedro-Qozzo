@@ -29,14 +29,14 @@ pada saat melakukan UI testing ada beberapa hal yang harus dilakukan:
 
 ### Melakuakn test seluruh halam yang sudah dibuat
 
-[task1.go](./Praktikum/test/model/api/contact_api_test.dart)
+[task1.go](./Praktikum/test/Task1/home_screen_test.dart)
 
 output:
-![task1](./Screenshots/task_1.jpeg)
+![task1](./Screenshots/task1.jpeg)
 
 ### Melakukan test pada halaman yang belum dibuat
 
-[task2.go](./Praktikum/test/model/api/create_contact_test.dart)
+[task2.go](./Praktikum/test/Task2/home_screen2_test.dart)
 
 output:
-![task2](./Screenshots/task_2.jpeg)
+![task2](./Screenshots/task2.jpeg)

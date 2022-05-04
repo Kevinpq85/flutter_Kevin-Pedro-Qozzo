@@ -19,7 +19,14 @@ merupakan state biasa yang dapat digunakan pada seluruh widget
 
 ### Membuat halaman contacts
 
-[task1.go](./Praktikum/lib/main.dart)
+[task1.go](./Praktikum/task1/lib/main.dart)
 
 output:
-![task1](./Screenshots/Android%20Emulator%20-%20Pixel_3_XL_API_32_5554%204_5_2022%203_14_22%20PM.png)
+![task1](./Screenshots/Android%20Emulator%20-%20Pixel_3_XL_API_32_5554%205_4_2022%202_00_47%20PM.png)
+
+### Memindahkan state kedalam global state
+
+[task1.go](./Praktikum/task2/lib/main.dart)
+
+output:
+![task1](./Screenshots/Android%20Emulator%20-%20Pixel_3_XL_API_32_5554%205_4_2022%202_05_34%20PM.png)

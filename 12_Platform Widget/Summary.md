@@ -19,7 +19,14 @@ widget yang mengiplementasikan desain khusus untuk bahasa iOS
 
 ### Membuat tampilan telegram dengan flutter material
 
-[task.go](./Praktikum/lib/main.dart)
+[task.go](./Praktikum/lib/task_1/main.dart)
 
 output:
 ![task](./Screenshots/task_1.jpeg)
+
+### Membuat tampilan telegram dengan flutter cupertino
+
+[task.go](./Praktikum/lib/task_2/main.dart)
+
+output:
+![task](./Screenshots/task_2.png)
